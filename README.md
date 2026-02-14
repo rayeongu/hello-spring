@@ -9,7 +9,6 @@
 * **Build:** Gradle - Groovy
 
 ## 🚀 빌드 및 실행 (Windows)
-이 프로젝트를 다운로드 받은 사람이 실행하는 방법입니다.
 ```bash
 # 빌드하기
 ./gradlew build
